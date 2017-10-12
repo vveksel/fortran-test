@@ -10,6 +10,8 @@ C
         real a,b,s
         end module global
 
+
+
         program add2
         implicit none
             call input
